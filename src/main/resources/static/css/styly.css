@@ -84,7 +84,7 @@ nav {
 
 /* O mne */
 .omne {
-    background: #8cbeb2 url('../images/pattern.png');
+    background: #84e25f url('../images/pattern.png');
 }
 
 .krystufek {
@@ -102,12 +102,13 @@ nav {
 
 /* Fotogalerie */
 .fotogalerie {
-    background: #f2ebbf url('../images/pattern.png');
+    background: #efef79 url('../images/pattern.png');
 }
 
 .foto {
     display: inline-block;
     width: 31%;
+    height: 187px;
     margin-right: 2.33%;
     margin-top: 1.166%;
     margin-bottom: 1.166%;
